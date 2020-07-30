@@ -41,7 +41,7 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Interactive-Media-Lab-Data-Science-Team&repo=Vampyr-MTL&theme=dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EvanSamaa&repo=EyeDK&theme=dark)
 
-### 🗓 Bi-Weekly Development BreakDown
+### 🗓 Weekly Development BreakDown
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
