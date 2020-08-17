@@ -45,19 +45,19 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 359 Contributions in year 2020
+> 🏆 359 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 30 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
@@ -66,7 +66,7 @@
 🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.61%
 
 ```
-📅 **I'm Most Productive on Thursdays** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       65 commits     █████░░░░░░░░░░░░░░░░░░░░   19.52% 
@@ -80,19 +80,19 @@ Sunday       57 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/Toronto
+⌚︎ Time zone: America/Toronto
 
-💬 Languages: 
+💬 Programming Languages: 
 Other                    34 hrs 37 mins      ██████████████████████░░░   89.59% 
 JavaScript               2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
 Markdown                 1 hr 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
 Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
 JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
 
-🔥 Editors: 
+🔥 Code Editors: 
 Chrome                   34 hrs 37 mins      ██████████████████████░░░   89.59% 
 VS Code                  4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   10.41%
 
@@ -101,12 +101,12 @@ cognitive-centivizer     23 hrs 16 mins      ███████████�
 DaPraxis.github.io       13 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   35.99% 
 EyeDK                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Windows                  38 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
-**I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
