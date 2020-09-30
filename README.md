@@ -43,7 +43,7 @@
 
 ### 🗓 Weekly Development BreakDown
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
@@ -86,21 +86,16 @@ Sunday       63 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Python                   2 hrs 55 mins       ███████████████████████░░   93.41% 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 7 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Interactive-Machine-Learn2 hrs 55 mins       ███████████████████████░░   93.49% 
-Vampyr-MTL               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.51%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 7 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
