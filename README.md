@@ -86,16 +86,17 @@ Sunday       63 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 42 mins        ████████████████████████░   98.61% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 43 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Interactive-Machine-Learn1 hr 43 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 43 mins        █████████████████████████   100.0%
 
 ```
 
