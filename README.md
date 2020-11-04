@@ -86,16 +86,16 @@ Sunday       63 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DaPraxis.github.io       13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
