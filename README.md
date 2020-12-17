@@ -55,7 +55,7 @@
  > 
 > 📜 31 Public Repositories 
  > 
-31 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
