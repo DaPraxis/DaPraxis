@@ -1,10 +1,9 @@
 ## 👋 Hi there, welcome to my page! 
 
-- 🔭 I’m currently working on [Social Distance Detection App](https://colab.research.google.com/drive/16qIZdvKYlyqp-nOS8dXCShUKcGRbtgHJ?usp=sharing)
+- 🔭 I’m currently working on [Interactive Machine Learning Tool for RFA](https://github.com/DaPraxis/Interactive-Machine-Learning-Tool-for-Risk-Factor-Analysis2)
 - 🌱 I’m currently learning Machine Learning, Edge Computing and Cloud Intelligence
-- 💬 Ask me about anything related to Python/Computer Vision/Pytorch/SKlearn/JavaScript
 - 📫 How to reach me: [@HaoyanJiang](Haoyanhy.jiang@mail.utoronto.ca)  @[LinkedIn](https://www.linkedin.com/in/haoyan-jiang/) 
-- 🎓 Education: I am Honored BASc double major in Computer Science and Statistics in the University of Toronto, and processing to my direct-entry Ph.D. in UT Sept 2020 
+- 🎓 Education: I am a first year Ph.D student in the University of Toronto Industrial Engineering Department
 
 [![Twitter: Max Jiang](https://img.shields.io/twitter/follow/Max15595598?style=social)](https://twitter.com/Max15595598)
 [![Linkedin: Max Jiang](https://img.shields.io/badge/-MaxJiang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haoyan-jiang/)](https://www.linkedin.com/in/haoyan-jiang/)
@@ -40,80 +39,6 @@
 ### 🔫 Featured
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Interactive-Media-Lab-Data-Science-Team&repo=Vampyr-MTL&theme=dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EvanSamaa&repo=EyeDK&theme=dark)
-
-### 🗓 Weekly Development BreakDown
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 2 Contributions in the Year 2021
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
-🌆 Daytime    162 commits    ███████████░░░░░░░░░░░░░░   47.23% 
-🌃 Evening    121 commits    ████████░░░░░░░░░░░░░░░░░   35.28% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-Tuesday      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
-Wednesday    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
-Thursday     68 commits     █████░░░░░░░░░░░░░░░░░░░░   19.83% 
-Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.66% 
-Saturday     57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
-Sunday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-Python                   47 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-HW4                      47 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   34.38% 
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12% 
-Jupyter Notebook         6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/DaPraxis/DaPraxis/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
