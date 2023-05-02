@@ -1,9 +1,8 @@
 ## 👋 Hi there, welcome to my page! 
 
-- 🔭 I’m currently working on [Interactive Machine Learning Tool for RFA](https://github.com/DaPraxis/Interactive-Machine-Learning-Tool-for-Risk-Factor-Analysis2)
-- 🌱 I’m currently learning Machine Learning, Edge Computing and Cloud Intelligence
+- 🌱 I’m currently Driving Intelligence, Machine Learning and Human-Computer Interaction
 - 📫 How to reach me: [@HaoyanJiang](Haoyanhy.jiang@mail.utoronto.ca)  @[LinkedIn](https://www.linkedin.com/in/haoyan-jiang/) 
-- 🎓 Education: I am a first year Ph.D student in the University of Toronto Industrial Engineering Department
+- 🎓 Education: I am a third year Ph.D candidate in the University of Toronto Industrial Engineering Department
 
 [![Twitter: Max Jiang](https://img.shields.io/twitter/follow/Max15595598?style=social)](https://twitter.com/Max15595598)
 [![Linkedin: Max Jiang](https://img.shields.io/badge/-MaxJiang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haoyan-jiang/)](https://www.linkedin.com/in/haoyan-jiang/)
@@ -19,16 +18,10 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="LaTex" src="https://img.shields.io/badge/-LaTex-008080?style=flat-square&logo=latex&logoColor=white" />
-  <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=Jekyll&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="Jinja" src="https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=jinja&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 </p>
 
