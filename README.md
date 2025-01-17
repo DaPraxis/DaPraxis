@@ -1,8 +1,7 @@
 ## 👋 Hi there, welcome to my page! 
 
-- 🌱 I’m currently Driving Intelligence, Machine Learning and Human-Computer Interaction
+- 🌱 Driving Intelligence, Machine Learning and Human-Computer Interaction
 - 📫 How to reach me: [@HaoyanJiang](Haoyanhy.jiang@mail.utoronto.ca)  @[LinkedIn](https://www.linkedin.com/in/haoyan-jiang/) 
-- 🎓 Education: I am a third year Ph.D candidate in the University of Toronto Industrial Engineering Department
 
 [![Linkedin: Max Jiang](https://img.shields.io/badge/-MaxJiang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haoyan-jiang/)](https://www.linkedin.com/in/haoyan-jiang/)
 [![GitHub DaPraxis](https://img.shields.io/github/followers/dapraxis?label=follow&style=social)](https://github.com/DaPraxis)
