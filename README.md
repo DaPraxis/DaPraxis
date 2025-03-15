@@ -1,6 +1,6 @@
 ## 👋 Hi there, welcome to my page! 
 
-- 🌱 Driving Intelligence, Machine Learning and Human-Computer Interaction
+- 🌱 Data Science, Machine Learning and Human-Computer Interaction
 - 📫 How to reach me: [@HaoyanJiang](Haoyanhy.jiang@mail.utoronto.ca)  @[LinkedIn](https://www.linkedin.com/in/haoyan-jiang/) 
 
 [![Linkedin: Max Jiang](https://img.shields.io/badge/-MaxJiang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haoyan-jiang/)](https://www.linkedin.com/in/haoyan-jiang/)
